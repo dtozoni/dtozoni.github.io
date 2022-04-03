@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exact optimization | Davi</title>
+    <link>https://dtozoni.github.io/tag/exact-optimization/</link>
+      <atom:link href="https://dtozoni.github.io/tag/exact-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>exact optimization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dtozoni.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>exact optimization</title>
+      <link>https://dtozoni.github.io/tag/exact-optimization/</link>
+    </image>
+    
+    <item>
+      <title>Point Guards and Point Clouds: Solving General Art Gallery Problems</title>
+      <link>https://dtozoni.github.io/publication/borrmann-point-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://dtozoni.github.io/publication/borrmann-point-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
